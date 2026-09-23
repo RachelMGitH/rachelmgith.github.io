@@ -1,7 +1,19 @@
 ---
-title: "rachelmgith.github.io"
+title: "Rachel Miller"
+image: "images/Linkedin.JPG"
+toc: false
+about:
+    template: trestles
+    image-shape: round
+    image-width: 17em
+    links:
+        - text: LinkedIn
+          href: www.linkedin.com/in/rachelclairemiller
+          target: _blank
+        - text: Email
+          href: mailto:rachelcmiller01@gmail.com
+        - text: GitHub
+          href: https://github.com/RachelMGitH
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This is where my bio will go!
